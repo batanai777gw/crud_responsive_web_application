@@ -1,5 +1,8 @@
-# CRUD-Operations
-Create a CRUD Application using HTML CSS Bootstrap5 and JavaScript Local Storage.  
+# CRUD-WEB-APPLICATION
+Developer: JuniorTheDeveloper [Batanai Gwanyanya] - Software Developer [4 years experience, BSCIT, BCOM IST HONORS -> University of Kwazulu-Natal]
+
+online portfolio: 
+research link: 
 
 ## JavaScript Local Storage Project.
 
